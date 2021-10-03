@@ -1,0 +1,362 @@
+@media(max-width:1199px) and (min-width:992px){
+
+    .header_p {
+        height: 50px;
+        padding-right: 100px;
+    }
+
+}
+
+@media(max-width:1080px){
+    
+    .icon_2 {
+        bottom: 130px;
+        left: 122px;
+    }
+}
+
+@media(max-width:991px) and (min-width:768px){
+
+    .logo_image img {
+        width: 55%;
+        padding-left: 50px;
+    }
+    .header_text {
+        padding-top: 108px;
+    }
+    
+    .header_p{
+        padding-right: 0;
+    }
+    .header_text h1 {
+        padding-top: 10px;
+    }
+    .head_text {
+        padding-right: 18px;
+    }
+    .icon_2 {
+        height: 80px;
+        width: 80px;
+        bottom: 125px;
+        left: 120px;
+    }
+    .icon_content {
+        height: 70px;
+        width: 70px;
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+    .icon_number h1 {
+        font-size: 22px;
+    }
+    .icon_number h3 {
+        font-size: 15px;
+    }
+    .icon_content h6 {
+        margin-top: -6px;
+        font-size: 15px;
+    }
+    .left_text h2 {
+        font-size: 17px;
+    }
+    .left_text h1 {
+        font-size: 18px;
+    }
+    .rightup_text h3 {
+        font-size: 17px;
+    }
+    .rightup_text h2 {
+        font-size: 18px;
+    }
+    .rightup_text h1 {
+        font-size: 18px;
+    }
+    .rightdown_text {
+        top: 232px;
+    }
+    .rightdown_text h3 {
+        font-size: 17px;
+    }
+    .rightdown_text h1 {
+        font-size: 18px;
+    }
+    .footerup_right {
+        padding-left: 45px;
+    }
+    .icon_up p {
+        font-size: 15px;
+    }
+    .icon_middle ul li i {
+        margin-left: 0px;
+    }
+    .form_part {
+        background-image:none;
+    }
+
+}
+
+@media(max-width:890px) and (min-width:768px){
+
+    .icon_2 {
+        bottom: 120px;
+        left: 115px;
+    }
+
+}
+
+@media(max-width:767px) and (min-width:576px){
+     
+    .left_content {
+        margin-bottom: 30px;
+    }
+    .icon_2{
+        bottom: 210px;
+        left: 230px;
+    }
+    .rightup_text {
+        top: 442px;
+    }
+    .rightdown_text {
+        top: 665px;
+    }
+    .form_part {
+        background-image:none;
+    }
+
+}
+
+@media(max-width:575px){
+
+    .logo_image img {
+        width: 40%;
+        padding-left: 30px;
+    }
+    .head_text {
+        padding-right: 5px;
+    }
+    .header_p {
+        margin-bottom: 20px;
+    }
+    .left_content {
+        margin-bottom: 30px;
+    }
+    .icon_2 {
+        bottom: 165px;
+        left: 155px;
+    }
+    .rightup_text {
+        top: 475px;
+    }
+    .rightdown_text {
+        top: 703px;
+    }
+    .choose_image img {
+        width: 55%;
+    }
+    .form_part {
+        background-image:none;
+    }
+    .icon_up ul li {
+        margin-left: 35px;
+    }
+    .btn-order {
+        margin-bottom: 10px;
+    }
+    
+}
+
+@media(max-width:425px){
+
+   .header_p{
+       margin-bottom: 50px;
+   }
+   .icon_2 {
+        height: 90px;
+        width: 90px;
+        bottom: 102px;
+        left: 105px;
+    }
+    .icon_content {
+        height: 80px;
+        width: 80px;
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+    .rightup_text {
+        top: 358px;
+    }
+    .rightdown_text {
+        top: 572px;
+    }
+    .footerup_right {
+        padding-left:0;
+    }
+
+}
+
+@media(max-width:375px){
+    
+    .header_p {
+        margin-bottom: 70px;
+    }
+    .header_p p{
+        margin-right: -151px;
+    }
+    .header_text h1 {
+        text-transform: uppercase;
+        font-size: 65px;
+    }
+    .header_text h3 {
+        font-size: 50px;
+    }
+    .icon_2 {
+        height: 70px;
+        width: 70px;
+        bottom: 96px;
+        left: 100px;
+    }
+    .icon_content {
+        height: 65px;
+        width: 65px;
+        margin-left: 3px;
+        margin-top: 3px;
+    }
+    .icon_number h1 {
+        font-size: 28px;
+    }
+    .icon_number h3 {
+        font-size: 16px;
+    }
+    .icon_content h6 {
+        font-size: 12px;
+    }   
+    .rightup_text {
+        top: 335px;
+    }
+    .rightdown_text {
+        top: 530px;
+    }
+    .choose_image img {
+        margin-left: 20px;
+    }
+    .icon_up p {
+        font-size: 14px;
+    }
+    .icon_middle p {
+        font-size: 14px;
+    }
+    .left_text h2 {
+        font-size: 18px;
+    }
+    .left_text h1 {
+        font-size: 20px;
+    }
+    .rightup_text h3 {
+        font-size: 18px;
+    }
+    .rightup_text h2 {
+        font-size: 20px;
+    }
+    .rightup_text h1 {
+        
+        font-size: 20px;
+    }
+    .rightdown_text h3 {
+        font-size: 18px;
+    }
+    .rightdown_text h1 {
+        font-size: 20px;
+    }
+}
+
+@media(max-width:320px){
+
+    .header_p {
+        padding-right: 0px;
+    }
+    .header_p p{
+        margin-right: 20px;
+    }
+    .header_text h1 {
+        font-size: 55px;
+    }
+    .header_text h3 {
+        font-size: 45px;
+    }
+    .icon_number h3 {
+        padding-top: 16px;
+    }
+    .icon_2 {
+        height: 60px;
+        width: 60px;
+        bottom: 90px;
+        left: 90px;
+    }
+    .icon_content {
+        height: 50px;
+        width: 50px;
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+    .icon_number h1 {
+        padding-left: 2px;
+        font-size: 22px;
+    }
+    .icon_number h3 {
+        padding-right: 3px;
+        font-size: 15px;
+    }
+    .icon_content h6 {
+        font-size: 10px;
+    }
+    .left_text h2 {
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 15px;
+        margin: 0;
+        font-weight: 400;
+    }
+    .left_text h1 {
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 14px;
+        padding-top: -40px;
+    }
+    .rightup_text {
+        top: 290px;
+    }
+    .rightup_text h3 {
+        font-size: 15px;
+    }
+    .rightup_text h2 {
+        font-size: 15px;
+    }
+    .rightup_text h1 {
+        font-size: 15px;
+    }
+    .rightdown_text {
+        top: 435px;
+    }
+    .rightdown_text h3 {
+        font-size: 15px;
+    }
+    .rightdown_text h1 {
+        font-size: 16px;
+    }
+    .down_right ul li {
+        margin-right: -2px;
+    }
+    .icon_up p {
+        font-size: 10px;
+    }
+    .icon_middle ul li {
+        margin-left: 0;
+    }
+    .icon_middle p {
+        font-size: 10px;
+    }
+    .footerup_image img {
+        width: 70%;
+    }
+
+}
